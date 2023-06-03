@@ -1,5 +1,5 @@
 
-![Starbucks Image](https://cdn.pixabay.com/photo/2020/04/27/14/57/virus-5100206_1280.jpg)
+![Starbucks Image](https://cdn.pixabay.com/photo/2015/11/17/22/46/starbucks-1048380_1280.jpg)
 <h3 align="center">Starbucks Capstone</h3>
 <p align="center">
   Unveiling Deeper Insights into Starbucks Customer Behaviors.

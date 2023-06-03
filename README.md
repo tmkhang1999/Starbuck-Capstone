@@ -1,8 +1,6 @@
 
-![Starbucks](https://cdn.pixabay.com/photo/2019/07/10/19/25/starbucks-4329351_1280.jpg)
-
+![Starbucks Image](https://cdn.pixabay.com/photo/2019/07/10/19/25/starbucks-4329351_1280.jpg)
 <h3 align="center">Starbucks Capstone</h3>
-
 <p align="center">
   Unveiling Deeper Insights into Starbucks Customer Behaviors.
   <br>

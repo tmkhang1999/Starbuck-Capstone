@@ -1,8 +1,5 @@
-
 ![Starbucks](./data/starbucks.jpg)
-
 <h3 align="center">Starbucks Capstone</h3>
-
 <p align="center">
   Unveiling Deeper Insights into Starbucks Customer Behaviors.
   <br>

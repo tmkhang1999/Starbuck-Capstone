@@ -13,6 +13,14 @@ This project aims to uncover valuable insights into Starbucks customer behaviors
 Through exploratory data analysis, we will clean the dataset and visualize key demographic information, including gender distribution, income levels, age distribution, and membership trends. By identifying patterns and trends, we can understand the factors that influence customer engagement with offers.
 
 To predict factors impacting offer completion, we will develop a machine learning model, focusing on demographic variables. We will employ the LGBM Classifier and evaluate the F1-Score to enhance model accuracy and gain valuable insights.
+
+## Installation <a name="installation"></a>
+- Python >= 3.6 
+- pandas ~= 1.5.3
+- Matplotlib ~= 3.6.3
+- Seaborn ~= 0.12.2
+
+
 ## File Descriptions <a name="files"></a>
 The data is contained in three files:
 - portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)

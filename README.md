@@ -68,11 +68,11 @@ value - (dict of strings) - either an offer id or transaction amount depending o
 Click on this <a href="https://medium.com/@khangtm99/exploring-starbuckss-customer-behaviors-for-deeper-insights-823da0505e89">Medium Post</a> link to understand more about the data visualization
 <p float="left">
   <img src="data/img3.png" width="860" height="250" alt=""/>
-  <img src="data/img2.png" width="430" height="292" alt=""/>
-  <img src="data/img4.png" width="430" height="292" alt=""/>
+  <img src="data/img2.png" width="420" height="290" alt=""/>
+  <img src="data/img4.png" width="420" height="290" alt=""/>
 
-  <img src="data/img5.png" width="430" height="292" alt=""/>
-  <img src="data/img6.png" width="430" height="292" alt=""/>
+  <img src="data/img5.png" width="420" height="290" alt=""/>
+  <img src="data/img6.png" width="420" height="290" alt=""/>
 </p>
 
 ## Licensing<a name="licensing"></a>
